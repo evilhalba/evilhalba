@@ -6,6 +6,7 @@
   <p>And Im Software Engennering Student at college <strong><a href="https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/">UNIPAMPA (Federal university of Pampa)</a></strong></p>
 
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&style=for-the-badge&logo=linkedin&color=0e76a8&link=http://left&link=https://www.linkedin.com/in/eduardo-cabezudo-vilhalba-141590186/" />
+<img src="https://img.shields.io/static/v1?label=&message=WORDPRESS&style=for-the-badge&logo=wordpress&color=0e76a8&link=http://left&link=https://eduardovilhalba.me/" />
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
