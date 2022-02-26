@@ -15,6 +15,7 @@
 
 <li>💬 Ping me about <strong>infraesturcture, security, cloud stuff, Java Spring and Node.js</strong>.</li>
 <li>📙 Check out my <a href="https://1drv.ms/b/s!Av0sbFjiOlRngcEUNI3PpgiKG8xWfA?e=Ype43U">resume</a>.</li>
+<li>📙 Check out my <a href="https://eduardovilhalba.me/">blog (Brazilian Portuguese content in future i pretend do english content)</a></li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
