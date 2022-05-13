@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Eduardo</h2>
-<p>I'm currently intern IT at <strong><a href="https://www.brkambiental.com.br/">BRK Ambiental</a></strong> based in Uruguaiana-RS/Brazil.</p> 
+<p>I'm currently node.js/Typescript backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong> via remote job.</p> 
   
-  <p>I am looking for new jobs to be an node.js/Typescript programmer, and Im working on side projects in some freelancers jobs.</p>
+  <p>Im working on software area and on side projects in some freelancers jobs.</p>
 
   <p>And Im Software Engennering Student at college <strong><a href="https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/">UNIPAMPA (Federal university of Pampa)</a></strong></p>
 
