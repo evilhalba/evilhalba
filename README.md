@@ -11,7 +11,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently intern IT at <strong><a href="https://www.brkambiental.com.br/">BRK Ambiental</a></strong>.</li>
+<li>🔭 I'm currently node.js/Typescript backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong>.</li>
 <li>🧐 Learning about  <strong>micro services</strong>, <strong>Infraestructure Automation (Ansible)</strong>,  <strong>Typescript/Node.js</strong> and a lite bit of Laravel framework.</li>
 
 <li>💬 Ping me about <strong>infraesturcture, security, cloud stuff, Java Spring and Node.js</strong>.</li>
