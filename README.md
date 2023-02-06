@@ -12,7 +12,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I'm currently node.js/Typescript backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong>.</li>
-<li>🧐 Learning about  <strong>micro services</strong>, <strong>Infraestructure Automation (Ansible)</strong>,  <strong>Typescript/Node.js</strong> and a lite bit of Laravel framework.</li>
+<li>🧐 Learning about  <strong>micro services</strong>, <strong>Infraestructure Automation (Ansible)</strong>,  <strong>Typescript/Node.js</strong> and CI/CD with jenkins</li>
 
 <li>💬 Ping me about <strong>infraesturcture, security, cloud stuff, Java Spring and Node.js</strong>.</li>
 <li>📙 Check out my <a href="https://1drv.ms/b/s!Av0sbFjiOlRngcEUNI3PpgiKG8xWfA?e=Ype43U">resume</a>.</li>
