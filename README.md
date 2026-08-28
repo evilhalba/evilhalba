@@ -3,7 +3,7 @@
   
   <p>Im working on software area and on side projects in some freelancers jobs.</p>
 
-  <p>And Im Software Engennering Student at college <strong><a href="https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/">UNIPAMPA (Federal university of Pampa)</a></strong></p>
+  <p>And Im Software Engennering Graduated <strong><a href="https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/">UNIPAMPA (Federal university of Pampa)</a></strong></p>
 
 <img src="https://img.shields.io/static/v1?label=&message=Linkedin&style=for-the-badge&logo=linkedin&color=0e76a8&link=http://left&link=https://www.linkedin.com/in/eduardo-cabezudo-vilhalba-141590186/" />
 <img src="https://img.shields.io/static/v1?label=&message=WORDPRESS&style=for-the-badge&logo=wordpress&color=0e76a8&link=http://left&link=https://eduardovilhalba.me/" />
@@ -11,12 +11,10 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently node.js/Typescript backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong>.</li>
-<li>🧐 Learning about  <strong>micro services</strong>, <strong>Infraestructure Automation (Ansible)</strong>,  <strong>Typescript/Node.js</strong> and CI/CD with jenkins</li>
+<li>🔭 I'm currently Java backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong>.</li>
+<li>🧐 Learning about, <strong>Infraestructure Automation (Ansible)</strong>,  <strong>Home labing</strong> and CI/CD</li>
 
 <li>💬 Ping me about <strong>infraesturcture, security, cloud stuff, Java Spring and Node.js</strong>.</li>
-<li>📙 Check out my <a href="https://1drv.ms/b/s!Av0sbFjiOlRngcEUNI3PpgiKG8xWfA?e=Ype43U">resume</a>.</li>
-<li>📙 Check out my <a href="https://eduardovilhalba.me/">blog (Brazilian Portuguese content in future i pretend do english content)</a></li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
@@ -46,8 +44,3 @@
 
 </p>
 
-<h2>🚀 My Stats</h2>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=evilhalba&show_icons=true&count_private=true" alt="evilhalba" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilhalba&layout=compact&langs_count=7"/>
-</div>
