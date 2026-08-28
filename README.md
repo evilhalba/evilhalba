@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Eduardo</h2>
-<p>I'm currently node.js/Typescript backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong> via remote job.</p> 
+<p>I'm currently Java backend developer at <strong><a href="https://cwi.com.br/">CWI Software</a></strong> via remote job.</p> 
   
   <p>Im working on software area and on side projects in some freelancers jobs.</p>
 
